@@ -1,0 +1,10 @@
+{
+  "name": "Thư viện điện tử Việt Âu",
+  "short_name": "VA Library",
+  "lang": "vi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#142c4e",
+  "description": "Thư viện điện tử Trường THPT Việt Âu"
+}
